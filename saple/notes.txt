@@ -1,0 +1,6 @@
+usestate ka scene simple h boss uske through apn koi bhi state change or update kar skte h  usme apn state bhi store kar skte h .
+useref apn kisi bhi chiz ka refrence leenne k liye karte h taki in code k beech me jab bhi uski jarurat pade tof usko refer kar de
+usecallback ka use apn as a callback karte h taaki usme koi bhi function diya ho jab vo execute ho toh apn code re render na kare or thoda optimization ho jaaye usme apnkko dependency bhi de skte h taaki jab bhi dependency change ho toh code baar baar callback ho 
+useeffect ka use apn kisi bhi code k andar kisichiz me effect dene k liye karte h usme dependency bhi aati taaki jab bhi dependency change ho toh code pe baar effect apply ho 
+
+
